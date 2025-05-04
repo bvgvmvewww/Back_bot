@@ -1,1 +1,2 @@
-web: python feedback.py
+web: python server.py & python feedback.py
+
